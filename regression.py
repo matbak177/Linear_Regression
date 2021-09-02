@@ -8,7 +8,7 @@ import os
 %matplotlib inline
 
 #change path
-folder=r'C:\Users\mateusz.bak\Desktop\arc\park'
+folder=r'C:\Users\mateusz.bak\Desktop\programs\regression'
 daty = [x for x in os.listdir(folder) if x.startswith('2020')]
  
 # load file  
