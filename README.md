@@ -1,4 +1,4 @@
-# Linear_Regression-for-spectral_curves
+# Linear_Regression
 
 It is a continuation of the spectral curve project. These charts can be helpful in assessing probable values over a period of time
 
